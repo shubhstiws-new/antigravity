@@ -1,3 +1,11 @@
+# Asteroid Belt Simulation
+
+## Demo
+![Simulation Demo](https://placehold.co/600x400?text=Simulation+Demo+Coming+Soon)
+
+## Description
+An immersive 3D asteroid belt simulation built with React Three Fiber.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
